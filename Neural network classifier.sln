@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neural network classifier", "Neural network classifier\Neural network classifier.csproj", "{FCA980A6-9C44-4176-90D4-5CA19EE12943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA980A6-9C44-4176-90D4-5CA19EE12943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA980A6-9C44-4176-90D4-5CA19EE12943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA980A6-9C44-4176-90D4-5CA19EE12943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA980A6-9C44-4176-90D4-5CA19EE12943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FAEC2D-C654-410C-B4B0-3584CB6DD8F7}
+	EndGlobalSection
+EndGlobal
